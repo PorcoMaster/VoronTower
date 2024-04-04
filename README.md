@@ -12,4 +12,4 @@ i believe the profile i have is the 4040 series 10, but i am not sure.
 
 i also changed the mgn9 on z to mgn12. i will build the first one as a 350x350, as i don't want to risk a 500x500 with a carriage with 2020, i believe everything else can be used from the original project from voron 2.4.R2
 
-![voron_tower](https://github.com/PorcoMaster/VoronTower/blob/main/Voron Tower/voron tower.png)
+![voron_tower](https://github.com/PorcoMaster/VoronTower/blob/main/Voron_Tower/voron_tower.png)
