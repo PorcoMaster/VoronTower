@@ -2,7 +2,7 @@
 A 4040 frame voron, with the possibility of a box and feet.
 
 Biggest file cannot be uploaded on github, it's on this drive 
-https://drive.google.com/file/d/1W40nBroonVElR74P6SIEgOG6RfHch7Dv/view?usp=sharing
+https://drive.google.com/file/d/1OqIFfqwKYdB3r7j7NeKnkWH7O517zN0H/view?usp=sharing
 
 
 the file is completely parametric, i had to change the position of the rails, and a bunch of files, any question just ask, i intend to build this printer, so any feedback will be greatly appreciate, it's still some small stuff missing, but for a complete working printer, it should have all files necessary for the modification. 
@@ -20,3 +20,5 @@ i also changed the mgn9 on z to mgn12. i will build the first one as a 350x350, 
 
 
 Update: 7 of april of 2024, there are some problems on the build volume and joints on the file, i am fixing it, i will release the fixed files in a few days, will add offset to add in top of the build volume that way you can add freee gantry movement without adding bed, also will add the full height, full width and full depth, also adding caster height to have full height better calculated.
+
+update: 8 of april of 2024, several fixes, fixed all types of joints added some joint animations, i will add a video later on about it, fixed door clips, fixed build volume, put a image of parameter to make it easier to change and understand, added full height, full width, full depth, added build_x_y_z_offset. 
