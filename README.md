@@ -17,10 +17,10 @@ i also changed the mgn9 on z to mgn12. i will build the first one as a 350x350, 
 
 [![Watch the video](https://github.com/PorcoMaster/VoronTower/assets/109048008/029d2b11-9173-45f9-8308-c8ac191a5d47)](https://www.youtube.com/watch?v=f0kk1qKtl04)
 [![parameters](https://github.com/PorcoMaster/VoronTower/blob/main/Voron%20Tower/Files/Docs/parameter_explanation.jpg)]
-[![list_1](https://github.com/PorcoMaster/VoronTower/blob/main/Voron%20Tower/Files/Docs/build_list_1.jpg)]
-[![list_2](https://github.com/PorcoMaster/VoronTower/blob/main/Voron%20Tower/Files/Docs/build_list_2.jpg)]
-[![list_3](https://github.com/PorcoMaster/VoronTower/blob/main/Voron%20Tower/Files/Docs/build_list_3.jpg)]
-[![list_4](https://github.com/PorcoMaster/VoronTower/blob/main/Voron%20Tower/Files/Docs/build_list_4.jpg)]
+![list_1](https://github.com/PorcoMaster/VoronTower/blob/main/Voron%20Tower/Files/Docs/build_list_1.jpg)
+![list_2](https://github.com/PorcoMaster/VoronTower/blob/main/Voron%20Tower/Files/Docs/build_list_2.jpg)
+![list_3](https://github.com/PorcoMaster/VoronTower/blob/main/Voron%20Tower/Files/Docs/build_list_3.jpg)
+![list_4](https://github.com/PorcoMaster/VoronTower/blob/main/Voron%20Tower/Files/Docs/build_list_4.jpg)
 
 
 #deprecated file: https://drive.google.com/file/d/1OqIFfqwKYdB3r7j7NeKnkWH7O517zN0H/view?usp=sharing
